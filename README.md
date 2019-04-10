@@ -1,4 +1,4 @@
-# React-Reux Practice RoboFriends
+# React-Redux Practice RoboFriends
 
 
 Using react and redux.
