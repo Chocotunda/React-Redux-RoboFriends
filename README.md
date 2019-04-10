@@ -1,5 +1,9 @@
 # React-Reux Practice RoboFriends
 
+
+#### Click [here](https://robofriends-react.herokuapp.com/) to view the website
+
+
 Using react and redux.
 
 
