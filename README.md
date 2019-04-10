@@ -1,9 +1,6 @@
 # React-Reux Practice RoboFriends
 
 
-#### Click [here](https://robofriends-react.herokuapp.com/) to view the website
-
-
 Using react and redux.
 
 
@@ -22,6 +19,10 @@ CSS is applied using [Tachyons](https://tachyons.io/)
   to fetch and render robot images on the cards.
 
 ## To view:
+Click [here](https://robofriends-react.herokuapp.com/) to view the website
+
+
+Or
 - Clone Project
 - npm install
 - npm start
